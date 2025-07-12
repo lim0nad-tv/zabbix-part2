@@ -1,7 +1,7 @@
 # zabbix-part2
 
 # Задание 1
-<img width="3199" height="113" alt="image" src="https://github.com/user-attachments/assets/11cc5afd-41a2-4b0d-a0bb-1e1a459be3c1" />
+<img width="3189" height="245" alt="image" src="https://github.com/user-attachments/assets/d3c8c879-899b-4782-bde6-0c5543f2c70d" />
 <img width="2271" height="532" alt="image" src="https://github.com/user-attachments/assets/a528f09f-48e5-4e14-82ae-2b0df0319677" />
 <img width="3209" height="596" alt="image" src="https://github.com/user-attachments/assets/a76986bc-ad8d-4516-b1c6-5e58b084d710" />
 <img width="3208" height="470" alt="image" src="https://github.com/user-attachments/assets/2b80cf5d-12b7-4372-acf1-273f27f47d73" />
